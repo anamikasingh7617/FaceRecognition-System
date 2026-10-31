@@ -1,0 +1,8 @@
+dataset/
+__pycache__/
+*.pyc
+trainer.yml
+labels.pickle
+*.pkl
+.venv/
+venv/
